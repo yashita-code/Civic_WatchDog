@@ -1,0 +1,10 @@
+{
+  "check_id": "CHK-001",
+  "check_type": "missing_field",
+  "severity": "information_gap",
+  "field_checked": "defect_liability_period",
+  "result": "not_found",
+  "explanation": "No defect liability period was located in the reviewed pages.",
+  "source_pages_reviewed": [1, 2, 3],
+  "requires_human_review": true
+}

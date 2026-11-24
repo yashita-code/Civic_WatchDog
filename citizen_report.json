@@ -1,0 +1,38 @@
+[
+  {
+    "report_id": "NEED-0001",
+    "category": "drainage",
+    "locality": "Chikhloli, Ambernath",
+    "landmark": "Near Railway Crossing",
+    "description": "Drainage overflowing after heavy rain.",
+    "duration": "several_weeks",
+    "impact": "Waterlogging on main access street",
+    "public_display_consent": true,
+    "submitted_at": "2026-11-23T22:00:00Z",
+    "status": "received_by_civic_watchdog"
+  },
+  {
+    "report_id": "NEED-0002",
+    "category": "drainage",
+    "locality": "Chikhloli, Ambernath",
+    "landmark": "Near Railway Crossing",
+    "description": "Drain overflow after heavy rain.",
+    "duration": "several_weeks",
+    "impact": "Waterlogging",
+    "public_display_consent": false,
+    "submitted_at": "2026-11-24T12:08:00Z",
+    "status": "received_by_civic_watchdog"
+  },
+  {
+    "report_id": "NEED-0003",
+    "category": "drainage",
+    "locality": "Chikhloli, Ambernath",
+    "landmark": "Near Railway Crossing",
+    "description": "Drain overflow after heavy rain.",
+    "duration": "several_weeks",
+    "impact": "Waterlogging",
+    "public_display_consent": false,
+    "submitted_at": "2026-11-24T12:08:08Z",
+    "status": "received_by_civic_watchdog"
+  }
+]
