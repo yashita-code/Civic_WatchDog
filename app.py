@@ -295,9 +295,9 @@ with tab2:
                 if desc.strip() and loc.strip():
                     category_map = {
                         "Drainage": "drainage",
-                        "Potholes": "roads_and_potholes",
+                        "Potholes": "potholes",
                         "Garbage": "garbage",
-                        "Water": "water_supply",
+                        "Water": "water",
                         "Streetlights": "streetlights",
                         "Other": "other",
                     }
