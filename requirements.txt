@@ -1,3 +1,7 @@
-streamlit 
-pypdf 
+streamlit
+pypdf
 requests
+plotly
+pydantic
+boto3
+python-dotenv
